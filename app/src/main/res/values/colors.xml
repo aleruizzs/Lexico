@@ -1,0 +1,8 @@
+<resources>
+    <color name="paper_background">#F7F5F0</color>
+    <color name="stone_surface">#EFECE6</color>
+    <color name="charcoal_ink">#161615</color>
+    <color name="warm_gray">#6E6D68</color>
+    <color name="terracotta">#C85A32</color>
+    <color name="forest_green">#2A5C43</color>
+</resources>

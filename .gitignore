@@ -1,0 +1,63 @@
+# ==========================================
+# Android & Gradle Build Artifacts
+# ==========================================
+.gradle/
+build/
+app/build/
+bin/
+gen/
+out/
+captures/
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# ==========================================
+# Local Configuration & SDK (DO NOT COMMIT)
+# ==========================================
+local.properties
+
+# ==========================================
+# Android Studio / IntelliJ IDEA
+# ==========================================
+.idea/
+*.iml
+.navigation/
+.externalNativeBuild/
+.cxx/
+
+# Excepciones: mantener wrappers de Gradle
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# ==========================================
+# Claves criptográficas y firma
+# ==========================================
+*.jks
+*.keystore
+signing.properties
+
+# ==========================================
+# Logs y volcados temporales
+# ==========================================
+*.log
+ui.xml
+uidump*.xml
+screen*.png
+
+# ==========================================
+# Archivos del Sistema Operativo
+# ==========================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*

@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clean typographic 'L' glyph -->
+    <path
+        android:fillColor="#161615"
+        android:pathData="M38,32h8v38h24v7h-32z" />
+    <!-- Terracotta editorial accent dot -->
+    <path
+        android:fillColor="#C85A32"
+        android:pathData="M72,70a3.5,3.5 0 1,0 7,0a3.5,3.5 0 1,0 -7,0" />
+</vector>
